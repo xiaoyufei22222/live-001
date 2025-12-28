@@ -15,19 +15,19 @@
 **导航**：https://sej95.github.io
 
 **极速地址**：
-- http://my9.ltd/tv/pblive.txt
 - [https://raw.githubusercontent.com/jn950/live/tv/pblive.txt](https://github.com/jn950/live/raw/refs/heads/main/tv/pllive.txt)
 
 ---
 
 ## 直播源调用地址
 
-- **国内M3U**：每三日更新
-- **国内TXT**：每三日更新
+- **国内M3U**：每日更新
+- **国内TXT**：每日更新
 - **仓库文件加速 线路1**
 - **仓库文件加速 线路2**
 
----
+---- http://my9.ltd/tv/pblive.txt
+
 
 ## 截图
 

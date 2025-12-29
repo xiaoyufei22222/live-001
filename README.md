@@ -35,5 +35,6 @@ https://raw.githubusercontent.com/jn950/live/main/tv/pllive.txt
 ![截图2](/img/live2.png)
 
 ## Star History
-
+## Star History
+[![Star History Chart](https://api.star-history.com/svg?repos=sej95/chatbox&type=Date)](https://star-history.com/#sej95/chatbox&Date)
 [![Star History Chart](https://api.star-history.com/svg?repos=jn950/live&type=Date)](https://star-history.com/#jn950/live&Date)

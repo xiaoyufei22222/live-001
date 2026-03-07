@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8">
     <title>WAF 安全防护系统</title>
-    <link rel="stylesheet" href="https://jscache.miancp.com:2083/Template/skin/cc.css?t=1772835862_af3808d56884454a" type="text/css" />
+    <link rel="stylesheet" href="https://jscache.miancp.com:2083/Template/skin/cc.css?t=1772921919_574095d507f6ab90" type="text/css" />
     <!-- 添加HTML级别的缓存控制 -->
     <meta http-equiv="cache-control" content="no-cache, no-store, must-revalidate">
     <meta http-equiv="pragma" content="no-cache">
@@ -25,11 +25,11 @@
         © CDN 安全防护系统 
         CDN识别IP: <span id="cdn-ip">166.1.18.176</span> 
         您的真实IP: <span id="client-ip">获取中...</span>
-        <span class="hidden-param">1772835862_af3808d56884454a</span>
+        <span class="hidden-param">1772921919_574095d507f6ab90</span>
     </div>
 
     <script>
-    var cacheBuster = "?t=1772835862_af3808d56884454a";
+    var cacheBuster = "?t=1772921919_574095d507f6ab90";
     
     // 获取客户端真实IP
     fetch('https://ip.miancp.com/?format=json' + cacheBuster)
